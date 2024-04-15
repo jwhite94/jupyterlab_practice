@@ -1,0 +1,6 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: C:\Users\jmbwh\miniconda3\envs\dstoolbox
